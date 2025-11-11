@@ -73,7 +73,11 @@ If the goal is not met, contributors can claim a refund.
 # High-Level Overview:
 Teaches decentralized fundraising.
 
+#output:
+![WhatsApp Image 2025-11-11 at 8 13 50 PM](https://github.com/user-attachments/assets/787d560e-85a8-471e-b625-ca434406f6fd)
+
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus the experiment is executed successfully
